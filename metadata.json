@@ -1,0 +1,5 @@
+{
+  "name": "Hyperrealistic Video Generator",
+  "description": "Generate stunning, hyperrealistic videos from simple text descriptions using the power of Gemini's Veo model.",
+  "requestFramePermissions": []
+}
